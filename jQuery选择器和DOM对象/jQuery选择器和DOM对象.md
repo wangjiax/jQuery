@@ -2,18 +2,18 @@
 
 ##DOM与jquery dom对象
 <div style="text-align: center;">
-    <img src="./images/DOM与jquerydom对象1.png" width="529px" height="257px">
+    <img src="../images/DOM与jquerydom对象1.png" width="529px" height="257px">
 </div>
 
 
 ##jQuery错误用法与对象转换
 <div style="text-align: center;">
-    <img src="./images/jQuery错误用法与对象转换1.png" width="579px" height="136px">
+    <img src="../images/jQuery错误用法与对象转换1.png" width="579px" height="136px">
 </div>
 
 ##常用jQuery选择器接口
 <div style="text-align: center;">
-    <img src="./images/常用jQuery选择器接口1.png" width="456px" height="327px">
+    <img src="../images/常用jQuery选择器接口1.png" width="456px" height="327px">
 </div>
 
 ##选择器接口源码解析

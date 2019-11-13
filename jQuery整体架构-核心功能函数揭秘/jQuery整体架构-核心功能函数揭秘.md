@@ -28,7 +28,7 @@ Note: 我们知道创建对象实例需要用new关键字，用new关键字主�
 
 ##共享原型设计
 <div style="text-align: center;">
-    <img src="./images/share_prototype1.png">
+    <img src="../images/share_prototype1.png">
 </div>
 实现：
 
