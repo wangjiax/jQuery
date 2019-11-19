@@ -7,7 +7,29 @@
 	<body>
 		<script src="demo.js"></script>
 		<script>
-           _.callbacks();
+			// _.callbacks('once memory');
+			// var cb = _.callbacks('once');
+			var cb = _.callbacks('memory');
+			// var cb = _.callbacks('once');
+
+			// 添加处理函数，可以传多个
+			cb.add(function(){
+				console.log(1);
+			});
+
+			cb.add(function(){
+				console.log(3);
+			});
+
+			cb.fire();
+			// cb.fire();
+
+			cb.add(function(){
+				console.log(2);
+			});
+
+			// cb.fire();
+			
 
 		</script>
 	</body>
